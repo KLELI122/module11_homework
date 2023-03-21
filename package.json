@@ -1,0 +1,25 @@
+{
+  "name": "module11_homework",
+  "version": "1.0.0",
+  "description": "unit test homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KLELI122/module11_homework.git"
+  },
+  "author": "Kling Elizaveta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KLELI122/module11_homework/issues"
+  },
+  "homepage": "https://github.com/KLELI122/module11_homework#readme",
+  "devDependencies": {
+    "@babel/core": "^7.21.3",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}
